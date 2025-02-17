@@ -1,4 +1,4 @@
-# Analise de BI com Python
+# Análise de BI com Python
 Uma Análise simples, porém eficaz de BI com Python. Nessa análise, explorei e descobri insights fundamentais para alavancagem de lucro.
 
 Como ver de forma "Original", em seu Próprio Computador: Primeiro, baixe o anaconda pelo site https://www.anaconda.com/download/success , 
